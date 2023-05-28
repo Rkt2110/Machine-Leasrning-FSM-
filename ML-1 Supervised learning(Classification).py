@@ -1,13 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
-
-
-
-
-# In[4]:
 
 
 import pandas as pd
@@ -79,20 +72,6 @@ plt.ylabel('Accuracy')
 plt.title('Comparison of Model Accuracy')
 plt.show()
 
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
