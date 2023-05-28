@@ -1,0 +1,8 @@
+# Machine-Leasrning-FSM-
+ Supervised Learning - Classification
+ 
+Naive Bayes Train Accuracy: 0.7912457912457912
+K-Nearest Neighbors Train Accuracy: 0.835016835016835
+Naive Bayes Validation Accuracy: 0.776536312849162
+K-Nearest Neighbors Validation Accuracy: 0.8603351955307262
+
